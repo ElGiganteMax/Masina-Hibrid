@@ -32,12 +32,14 @@ Aplicația modelează comportamentul unei mașini hibrid pe parcursul unui drum:
 
 - Python 3.10+
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) — trebuie instalat doar pentru versiunea grafică
-- [Matplotlib](https://matplotlib.org/) — trebuei instalat doar pentru versiunea grafică
+- [Matplotlib](https://matplotlib.org/) — trebuie instalat doar pentru versiunea grafică
 
 Instalare dependențe:
 
 ```bash
-pip install customtkinter matplotlib
+customtkinter>=5.2.0
+matplotlib>=3.7.0
+
 ```
 
 ## Rulare
